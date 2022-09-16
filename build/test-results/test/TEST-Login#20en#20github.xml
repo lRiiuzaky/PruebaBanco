@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Login en github" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-16T15:02:44" hostname="CHBOG443KDL3" time="9.871">
+<testsuite name="Login en github" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-16T15:55:50" hostname="CHBOG443KDL3" time="10.328">
   <properties/>
-  <testcase name="EMPTY_NAME" classname="Login en github" time="9.871"/>
+  <testcase name="EMPTY_NAME" classname="Login en github" time="10.328"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 18022
+  <system-err><![CDATA[Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 6692
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-sept. 16, 2022 10:02:46 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+sept. 16, 2022 10:55:52 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
