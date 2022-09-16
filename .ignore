@@ -1,0 +1,15 @@
+.gradle
+/build/
+
+gradle-app.setting
+
+*.class
+
+*.jar
+*.war
+*.ear
+
+.idea/gradle.xml
+.idea/libraries
+
+/out/
